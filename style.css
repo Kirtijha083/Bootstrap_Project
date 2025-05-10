@@ -1,0 +1,20 @@
+.top-navbar {
+    background-color: #2E3D53; 
+    color: white;
+    font-size: 14px;
+  }
+  .top-navbar .form-select {
+    width: 120px;
+    margin-left: 55px;
+    background-color: #2E3D53; 
+    color: white;
+  }
+.custom-box img{
+    width: 169px;
+    height: 128px;
+}
+.login img{
+    width: 70px;
+    height: 70px;
+}
+
